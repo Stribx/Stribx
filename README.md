@@ -28,4 +28,4 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a></p>
-![LeetCode Stats](https://leetcard.jacoblin.cool/Stribx63?theme=dark&font=Oxygen)
+<a href="https://leetcode.com/Stribx63/"><img src="https://leetcard.jacoblin.cool/Stribx63?theme=dark&font=Oxygen" alt="leetcode" /><a/>
