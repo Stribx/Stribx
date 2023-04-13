@@ -45,22 +45,22 @@
 </p>
 <h3 align="left">Other</h3>
 <p align="left">
-<a href="https://www.solidjs.com" target="_blank">
+<a href="https://www.arduino.cc" target="_blank">
   <img src="https://skillicons.dev/icons?i=arduino" />
 </a>
-<a href="https://www.solidjs.com" target="_blank">
+<a href="https://www.python.org" target="_blank">
   <img src="https://skillicons.dev/icons?i=python" />
 </a>
-<a href="https://www.solidjs.com" target="_blank">
+<a href="https://git-scm.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=git" />
 </a>
-<a href="https://www.solidjs.com" target="_blank">
+<a href="https://www.java.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=java" />
 </a>
-<a href="https://www.solidjs.com" target="_blank">
+<a href="https://dart.dev" target="_blank">
   <img src="https://skillicons.dev/icons?i=dart" />
 </a>
-<a href="https://www.solidjs.com" target="_blank">
+<a href="https://flutter.dev" target="_blank">
   <img src="https://skillicons.dev/icons?i=flutter" />
 </a>
 </p>
