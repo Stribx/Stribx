@@ -66,5 +66,8 @@
 <a href="https://www.rust-lang.org" target="_blank">
   <img src="https://skillicons.dev/icons?i=rust" />
 </a>
+<a href="https://www.gnu.org/software/bash/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=bash" />
+</a>
 </p>
 <a href="https://leetcode.com/Stribx63/"><img src="https://leetcard.jacoblin.cool/Stribx63?theme=dark&font=Oxygen" alt="leetcode" /><a/>
