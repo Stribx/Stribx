@@ -63,5 +63,8 @@
 <a href="https://flutter.dev" target="_blank">
   <img src="https://skillicons.dev/icons?i=flutter" />
 </a>
+<a href="https://www.rust-lang.org" target="_blank">
+  <img src="https://skillicons.dev/icons?i=rust" />
+</a>
 </p>
 <a href="https://leetcode.com/Stribx63/"><img src="https://leetcard.jacoblin.cool/Stribx63?theme=dark&font=Oxygen" alt="leetcode" /><a/>
