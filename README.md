@@ -42,7 +42,7 @@
 <a href="https://www.solidjs.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=solidjs" />
 </a>
-<a href="https://www.w3.org/html/" target="_blank">
+<a href="https://astro.build" target="_blank">
   <img src="https://skillicons.dev/icons?i=astro" />
 </a>
 </p>
