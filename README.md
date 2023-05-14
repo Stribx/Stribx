@@ -42,6 +42,9 @@
 <a href="https://www.solidjs.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=solidjs" />
 </a>
+<a href="https://www.w3.org/html/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=astro" />
+</a>
 </p>
 <h3 align="left">Other</h3>
 <p align="left">
