@@ -39,6 +39,9 @@
 <a href="https://www.php.net" target="_blank">
   <img src="https://skillicons.dev/icons?i=php" />
 </a>
+<a href="https://symfony.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=symfony" />
+</a>
 <a href="https://www.solidjs.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=solidjs" />
 </a>
