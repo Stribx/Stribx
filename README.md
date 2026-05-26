@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Stribx</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stribx&style=flat-square" alt="stribx" /> </p>
 <h2 align="left">Languages and Tools:</h2>
 <h3 align="left">Web</h3>
 <p align="left">
