@@ -1,78 +1,64 @@
-<h1 align="center">Hi 👋, I'm Stribx</h1>
-<h2 align="left">Languages and Tools:</h2>
-<h3 align="left">Web</h3>
-<p align="left">
-<a href="https://www.w3.org/html/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=html" />
-</a>
-<a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank">
-  <img src="https://skillicons.dev/icons?i=css" />
-</a>
-<a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank">
-  <img src="https://skillicons.dev/icons?i=js" />
-</a>
-<a href="https://sass-lang.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=sass" />
-</a>
- <a href="https://sass-lang.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=tailwind" />
-</a>
-<a href="https://getbootstrap.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=bootstrap" />
-</a>
-<a href="https://nodejs.org" target="_blank">
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-</a>
-<a href="https://react.dev" target="_blank">
-  <img src="https://skillicons.dev/icons?i=react" />
-</a>
-<a href="https://nextjs.org" target="_blank">
-  <img src="https://skillicons.dev/icons?i=nextjs" />
-</a>
-<a href="https://www.electronjs.org" target="_blank">
-  <img src="https://skillicons.dev/icons?i=electron" />
-</a>
-<a href="https://www.mysql.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</a>
-<a href="https://www.php.net" target="_blank">
-  <img src="https://skillicons.dev/icons?i=php" />
-</a>
-<a href="https://symfony.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=symfony" />
-</a>
-<a href="https://www.solidjs.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=solidjs" />
-</a>
-<a href="https://astro.build" target="_blank">
-  <img src="https://skillicons.dev/icons?i=astro" />
-</a>
+<h1 align="center">Hi 👋, I'm Guillaume C.</h1>
+
+<h3 align="center">Full-Stack Developer | Seeking a Work-Study (Alternance) for 2026/2027</h3>
+
+<p align="center">
+  🎓 <b>3rd-year Computer Science student (BUT Informatique)</b> actively seeking a Full-Stack Work-Study (Alternance) for 2026/2027.<br>
+  💻 I specialize in building real-world web applications using <b>Symfony and React</b>, backed by experience from 5 professional internships.<br>
+  🤾‍♂️ When I'm not coding, you can find me playing competitive handball—which translates perfectly to how I communicate and collaborate in dev teams!
 </p>
-<h3 align="left">Other</h3>
-<p align="left">
-<a href="https://www.arduino.cc" target="_blank">
-  <img src="https://skillicons.dev/icons?i=arduino" />
-</a>
-<a href="https://www.python.org" target="_blank">
-  <img src="https://skillicons.dev/icons?i=python" />
-</a>
-<a href="https://git-scm.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=git" />
-</a>
-<a href="https://www.java.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=java" />
-</a>
-<a href="https://dart.dev" target="_blank">
-  <img src="https://skillicons.dev/icons?i=dart" />
-</a>
-<a href="https://flutter.dev" target="_blank">
-  <img src="https://skillicons.dev/icons?i=flutter" />
-</a>
-<a href="https://www.rust-lang.org" target="_blank">
-  <img src="https://skillicons.dev/icons?i=rust" />
-</a>
-<a href="https://www.gnu.org/software/bash/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=bash" />
-</a>
+
+<p align="center">
+  <i>🇫🇷 Étudiant en 3e année de BUT Informatique (UCA Clermont-Ferrand), je recherche une alternance de développeur full-stack pour la rentrée 2026. Fort de cinq stages, je livre des applications Symfony et React en conditions réelles, en autonomie comme en équipe.</i>
 </p>
-<a href="https://leetcode.com/Stribx63/"><img src="https://leetcard.jacoblin.cool/Stribx63?theme=dark&font=Oxygen" alt="leetcode" /><a/>
+
+<hr>
+
+<h2 align="center">🚀 Skills & Technologies</h2>
+
+<h3 align="left">⚡ Core Tech Stack (Maîtrisés)</h3>
+<p align="left">
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=php,symfony,js,ts,react,express,next,mysql,postgres,docker" alt="Core Tech Stack" />
+  </a>
+</p>
+
+<h3 align="left">🌱 Familiar With & Learning (Notions)</h3>
+<p align="left">
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vue,angular,cs,dotnet,java,spring,kotlin,c,cpp,python,mongodb,astro,solidjs,tailwind,sass" alt="Familiar With" />
+  </a>
+</p>
+
+<h3 align="left">🛠 Tools & DevOps</h3>
+<p align="left">
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,bash,kubernetes,linux" alt="Tools and DevOps" />
+  </a>
+</p>
+
+<hr>
+
+<h2 align="center">💼 Professional Experience Highlights</h2>
+<ul>
+  <li><b>Eklair</b> (Apr-Jun 2026) - Built a Symfony library for ingestion and validation of accounting files (FEC). Designed the architecture for an API REST orchestrator.</li>
+  <li><b>Open Studio</b> (Apr-Jun 2025) - Developed a Symfony web app with automated notifications to help HR manage the onboarding process for interns.</li>
+  <li><b>Vulcania</b> (Jan-Feb 2024) - Created a full-stack CRUD application (React & PHP Slim) to manage public-facing volcanic data.</li>
+  <li><b>Dafy Moto</b> (May-Jun 2023) - Built a Dockerized Symfony application to automate job offer integration from a Talend feed.</li>
+</ul>
+
+<hr>
+
+<h2 align="center">📊 Problem Solving</h2>
+<p align="center">
+  <a href="https://leetcode.com/Stribx63/">
+    <img src="https://leetcard.jacoblin.cool/Stribx63?theme=dark&font=Oxygen" alt="LeetCode Stats" />
+  </a>
+</p>
+
+<h2 align="center">📫 Let's Connect!</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/guillaume-chambat/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
